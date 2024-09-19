@@ -36,7 +36,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/eslam-mostafa-6b8b57306/" target="_blank"><img src="https://img.shields.io/badge/Eslam%20Mostafa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="islam.mostafa893@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Eslam%20Mostafa-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="islam.mostafa893@gmail.com‏" target="_blank"><img src="https://img.shields.io/badge/Eslam%20Mostafa-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
